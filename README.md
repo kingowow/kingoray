@@ -1,4 +1,4 @@
-# Welcome to Nautica
+# Welcome to kingoray
 
 Sebuah repository serverless tunnel studi kasus Indonesia
 
@@ -94,5 +94,5 @@ Berikut cara aktivasinya:
 
 # Footnote
 
-- Hal aneh lain yang saya kerjakan [FoolVPN](https://t.me/foolvpn)
-- Tanya-tanya -> [Telegram](https://t.me/d_fordlalatina)
+- Hal aneh lain yang saya kerjakan [FoolVPN](https://t.me/teleking_vip)
+- Tanya-tanya -> [Telegram](https://t.me/kingo_wallpaper)
